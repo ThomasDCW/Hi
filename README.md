@@ -1,4 +1,4 @@
-#### 🚀 FullStack Developer
+#### 🌯 FullStack Developer at Karbon
 
 📂 [Portfolio](https://thomasdcw.github.io/folio-thomas/)
 
