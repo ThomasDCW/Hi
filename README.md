@@ -1,4 +1,4 @@
-#### 🌯 FullStack Developer at Karbon
+#### 🚘 FullStack Developer at Auto-ici
 
 📂 [Portfolio](https://thomasdcw.github.io/folio-thomas/)
 
