@@ -1,4 +1,4 @@
-#### 🚘 FullStack Developer at Auto-ici
+#### FullStack Developer
 
 📂 [Portfolio](https://thomasdcw.github.io/folio-thomas/)
 
